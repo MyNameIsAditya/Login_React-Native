@@ -3,3 +3,4 @@ This is a login template made with React-Native. It includes login animations, m
 
 ## Video
 ![Login GIF](https://github.com/MyNameIsAditya/Login_React-Native/blob/master/readme_resources/Login.gif)
+<img src="https://github.com/MyNameIsAditya/Login_React-Native/blob/master/readme_resources/Login.gif" width="100">
